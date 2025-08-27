@@ -1,0 +1,19 @@
+/* bloco do h1 fechado corretamente */
+h1 {
+  color: orange;
+  font-size: 4rem;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* seletores separados — agora funciona */
+#p1 {
+  color: red;     /* vermelho */
+}
+
+#p2 {
+  color: green;   /* verde */
+}
+
+#p3 {
+  color: blue;    /* azul */
+}
